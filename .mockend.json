@@ -13,7 +13,8 @@
   "Idea": {
     "id" : "int",
     "title": "string",
-    "body" : "string"
+    "body" : "string",
+    "created_date" : "date"
   }
  
 }
