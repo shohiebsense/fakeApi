@@ -9,6 +9,12 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "Idea": {
+    "id" : "int",
+    "title": "string",
+    "body" : "string"
+    
   }
  
 }
