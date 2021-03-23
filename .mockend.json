@@ -1,5 +1,5 @@
 {
-  "Posts": {
+  "Post": {
     "id": "int",
     "created_date": "date",
     "title": "string",
